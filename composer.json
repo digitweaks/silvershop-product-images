@@ -3,8 +3,8 @@
     "type": "silverstripe-vendormodule",
     "description": "A SilverShop module to add multiple product images",
     "require": {
-        "silvershop/core": "^4",
-        "bummzack/sortablefile": "^2", 
+        "silvershop/core": "^3 || ^4",
+        "bummzack/sortablefile": "^1.5 || ^2", 
         "silverstripe/vendor-plugin": "^2"
     },
     "autoload": {
